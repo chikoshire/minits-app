@@ -8,6 +8,17 @@ Minits is a personal knowledge and capture system spanning **Mac and iOS**: on-d
 
 ---
 
+
+## Marketing & public surfaces
+
+| Surface | URL |
+| --- | --- |
+| **Public installers** | [Minits-downloads](https://github.com/chikoshire/Minits-downloads) |
+| **Founder / ecosystem** | [chikoshire.com](https://chikoshire.com) |
+| **Mustard Seed Group** | [mustardseed.group](https://mustardseed.group) |
+
+> Dedicated Minits marketing domain can be added here when it ships; installers are public, source is not.
+
 ## The problem
 
 Notes apps are everywhere. **Capture that keeps up with how you actually think** is not.
